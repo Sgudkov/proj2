@@ -1,0 +1,160 @@
+@media (min-width: 742px) and (max-width: 950px) {
+	body{
+		font-size:14px;
+		width:100%;
+	}
+	.header-slider_navbar-wrapper {
+		display:flex;
+		height:20%;
+		flex-direction:column;
+		align-items:center;
+	}
+	.macbook{
+		background-image:none;
+	}
+	.mac-wrapper{
+		justify-content:space-around;
+		align-items:center;
+		flex:1 1 100%;
+	}
+	.mac-img{
+		flex:0;
+	}
+	.ipad-text{
+		justify-content:space-around;
+		margin-left:2%;
+		flex:1 1 50%;
+	}
+	#ipad-text_button{
+		margin-left: 92%;
+	}
+	.header-slider_text p {
+		font-size:14px;
+	}
+	.header-slider_text section {
+		font-size:14px;
+	}
+	.header-slider_text span{
+		font-size:24px;
+	}
+	.service{
+		height:500px;
+	}
+	.service-content{
+		flex-direction:column;
+		flex:1 1 70%;
+	}
+	.service-icon{
+		align-items:flex-start;
+		width:50%;
+	}
+	.service-icon_buttons{
+		flex-direction:row;
+		align-content:flex-end;
+		width:50%;
+		justify-content:center;
+	}
+	.service-default-text{
+		flex-direction:column;
+		justify-content:center;
+		width:60%;
+		align-items:center;
+	}
+	.service-circle{
+		display:none;
+	}
+	.submit-project{
+		font-size:14px;
+	}
+	.service-text{
+		font-size:14px;
+	}
+	.slider-images span{
+		font-size:16px;
+	}
+	.main-slider_links{
+		justify-content:space-around;
+		width:70%;
+		margin: 0 auto;
+	}
+}
+@media (min-width: 320px) and (max-width: 741px) {
+	body{
+		min-width:741px;
+		
+	}
+	.header-slider_navbar-wrapper {
+		display:flex;
+		height:20%;
+		flex-direction:column;
+		align-items:center;
+	}
+	.macbook{
+		background-image:none;
+	}
+	.mac-wrapper{
+		justify-content:space-around;
+		align-items:center;
+		flex:1 1 100%;
+	}
+	.mac-img{
+		flex:0;
+	}
+	.ipad-text{
+		justify-content:space-around;
+		margin-left:2%;
+		flex:1 1 50%;
+	}
+	#ipad-text_button{
+		margin-left: 92%;
+	}
+	.header-slider_text p {
+		font-size:14px;
+	}
+	.header-slider_text section {
+		font-size:14px;
+	}
+	.header-slider_text span{
+		font-size:24px;
+	}
+	.service{
+		height:500px;
+	}
+	.service-content{
+		flex-direction:column;
+		flex:1 1 70%;
+	}
+	.service-icon{
+		align-items:flex-start;
+		width:50%;
+	}
+	.service-icon_buttons{
+		flex-direction:row;
+		align-content:flex-end;
+		width:50%;
+		justify-content:center;
+	}
+	.service-default-text{
+		flex-direction:column;
+		justify-content:center;
+		width:60%;
+		align-items:center;
+	}
+	.service-circle{
+		display:none;
+	}
+	.submit-project{
+		font-size:14px;
+	}
+	.service-text{
+		font-size:14px;
+	}
+	.slider-images span{
+		font-size:16px;
+	}
+	.main-slider_links{
+		justify-content:space-around;
+		width:70%;
+		margin: 0 auto;
+	}
+}
